@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yosra Helal</h1>
 <h3 align="center">Blockchain developer</h3>
 
-- 🌱 I’m currently learning **LEARN . BUILD . EARN of EatTheBlocks**
-
 - 💬 Ask me about **solidity**
 
 - 📫 How to reach me **helal.yosra@gmail.com**
