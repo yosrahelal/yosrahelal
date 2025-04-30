@@ -6,7 +6,8 @@
 - 📫 How to reach me **helal.yosra@gmail.com**
 
 - 📄 Know about my experiences
-      <h3 align="left">Smart contract developer of UNDW3 Lacoste Drop </h3> https://etherscan.io/address/0xcd041f40d497038e2da65988b7d7e2c0d9244619
+      <h3 align="left">Smart contract developer of UNDW3 Lacoste Drop </h3> https://etherscan.io/token/0xcD041F40d497038E2da65988b7D7e2C0D9244619#code
+  <h3 align="left">Smart contract developer of ERU Token </h3> https://bscscan.com/address/0x8dc103496018de1002a0a4b324e6239620e73dd5#code
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
