@@ -1,19 +1,58 @@
-<h1 align="center">Hi 👋, I'm Yosra Helal</h1>
-<h3 align="center">Blockchain developer</h3>
+<h1 align="center">Yosra Helal</h1>
+<p align="center"><b>Blockchain architect & Solidity engineer</b> · Paris · building on-chain since 2016</p>
 
-- 💬 Ask me about **solidity**
-
-- 📫 How to reach me **helal.yosra@gmail.com**
-
-- 📄 Know about my experiences
-      <h3 align="left">Smart contract developer of UNDW3 Lacoste Drop </h3> https://etherscan.io/token/0xcD041F40d497038E2da65988b7D7e2C0D9244619#code
-  <h3 align="left">Smart contract developer of ERU Token </h3> https://bscscan.com/address/0x8dc103496018de1002a0a4b324e6239620e73dd5#code
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yosra-helal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yosra-helal" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://helyoschain.fr"><img src="https://img.shields.io/badge/helyoschain.fr-141D2E?style=for-the-badge&logoColor=white" alt="helyoschain.fr"/></a>
+  <a href="https://linkedin.com/in/yosra-helal"><img src="https://img.shields.io/badge/LinkedIn-DE4580?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:contact@helyoschain.fr"><img src="https://img.shields.io/badge/contact@helyoschain.fr-F6A75A?style=for-the-badge&logo=gmail&logoColor=141D2E" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+I design, build and audit blockchain infrastructure for banks, central banks and tokenization players: private networks, smart contracts, privacy and compliance by design. I run my own studio, **[Helyoschain](https://helyoschain.fr)**.
+
+### What I work on
+
+- **Institutional networks**: private Hyperledger Besu (QBFT) networks, confidentiality with Paladin (Pente, Noto, Zeto), sizing and deployment on Kubernetes and AWS
+- **Tokenization**: stablecoins, deposit tokens, tokenized funds, ERC-3643 permissioned tokens, MiCA-aligned design
+- **Smart contracts**: Solidity, upgradeable proxies, roles and access control, tested with Foundry
+- **Security**: smart contract reviews and audits, severity-rated reports
+- **Privacy & compliance on EVM**: FHE (Zama fhEVM), stealth addresses, Chainlink ACE / CCID
+- **Layer 2**: permissioned zk rollups with Polygon CDK and zkStack
+
+### Selected work
+
+| Project | Role | |
+|---|---|---|
+| **Wholesale CBDC**, Banque de France | Blockchain architect: smart contract review and audit, platform assessment, team lead | |
+| **Besu + Paladin platform & staking**, European banking custodian | Architecture and specification of a confidential private network on AWS | |
+| **UNDW3 drop**, Lacoste | Smart contract developer | [Etherscan](https://etherscan.io/token/0xcD041F40d497038E2da65988b7D7e2C0D9244619#code) |
+| **ERU token** | Smart contract developer | [BscScan](https://bscscan.com/address/0x8dc103496018de1002a0a4b324e6239620e73dd5#code) |
+| **Split payment contract**, L'Oréal | Smart contract developer | |
+| **Ethereum developer course**, Alyra | Course author: execution model, storage, proxies, reentrancy, attack vectors | |
+
+### Stack
+
+**Smart contracts** · Solidity · Foundry · Hardhat · OpenZeppelin · ERC-20 / 721 / 1155 / 3643
+**Networks** · Ethereum · Hyperledger Besu · Paladin · Polygon CDK · zkStack · Stellar · Solana
+**Web3 front-end** · TypeScript · React · wagmi · viem · ethers
+**Infra & data** · Docker · Kubernetes · AWS · Erigon · Blockscout · The Graph · GitLab CI
+**Oracles & privacy** · Chainlink · Zama fhEVM · RISC Zero
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Foundry-1D283A?style=flat-square" alt="Foundry"/>
+  <img src="https://img.shields.io/badge/Hyperledger_Besu-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Besu"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white" alt="Chainlink"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+</p>
+
+### Let's talk
+
+Scoping a blockchain project, preparing an audit, or need a second opinion on an architecture? Reach out at **contact@helyoschain.fr** or through [helyoschain.fr](https://helyoschain.fr).
