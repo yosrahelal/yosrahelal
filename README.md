@@ -55,4 +55,4 @@ I design, build and audit blockchain infrastructure for banks, central banks and
 
 ### Let's talk
 
-Scoping a blockchain project, preparing an audit, or need a second opinion on an architecture? Reach out at **contact@helyoschain.fr** or through [helyoschain.fr](https://helyoschain.fr).
+Scoping a blockchain project, preparing an audit, or need a second opinion on an architecture? Reach out at **helal.yosra@helyoschain.fr** or through [helyoschain.fr](https://helyoschain.fr).
